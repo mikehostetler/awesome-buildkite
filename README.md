@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [Example `pipeline.yml` Files](#section)
+- [Example `pipeline.yml` Files](#example-pipelineyml-files)
 - [Plugins](#plugins)
 - [Shell Scripts](#shell-scripts)
 
