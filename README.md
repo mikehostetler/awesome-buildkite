@@ -5,25 +5,33 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Example `pipeline.yml` Files](#section)
+- [Plugins](#plugins)
+- [Shell Scripts](#shell-scripts)
 
 
-## Section
+## Example `pipeline.yml` Files
 
-About this section. Optional. Keep this short and focus on the list.
+Great examples of Buildkite Agent files to work from.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Buildkite Agent](https://github.com/buildkite/agent/tree/master/.buildkite/pipeline.yml)
+- [Buildkite Frontend](https://github.com/buildkite/frontend/blob/master/.buildkite/pipeline.yml)
 
 
-## Another Section
+## Plugins
 
-### Subsection
+Buildkite plugins available to include in your `pipeline.yml` files.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Docker Plugin](https://github.com/buildkite-plugins/docker-buildkite-plugin)
+- [Docker Login Plugin](https://github.com/buildkite-plugins/docker-login-buildkite-plugin)
+- [Docker Compose Plugin](https://github.com/buildkite-plugins/docker-compose-buildkite-plugin)
+- [ECS Deploy Plugin](https://github.com/buildkite-plugins/ecs-deploy-buildkite-plugin)
 
+## Shell Scripts
+
+Handy Shell Scripts
+
+- [Autotag Release]()
 
 ## Contribute
 
